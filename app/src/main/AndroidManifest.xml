@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="myapps.test.dyslexify" >
+
+    <uses-feature android:name="android.hardware.camera2" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.default" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".B"
+            android:label="@string/title_activity_b"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".C"
+            android:label="@string/title_activity_c"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".D"
+            android:label="@string/title_activity_d"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".E"
+            android:label="@string/title_activity_e"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".F"
+            android:label="@string/title_activity_f"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".G"
+            android:label="@string/title_activity_g"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".H"
+            android:label="@string/title_activity_h"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".I"
+            android:label="@string/title_activity_i"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".J"
+            android:label="@string/title_activity_j"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".K"
+            android:label="@string/title_activity_k"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".L"
+            android:label="@string/title_activity_l"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".M"
+            android:label="@string/title_activity_m"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".N"
+            android:label="@string/title_activity_n"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".O"
+            android:label="@string/title_activity_o"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".P"
+            android:label="@string/title_activity_p"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Q"
+            android:label="@string/title_activity_q"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Rr"
+            android:label="@string/title_activity_rr"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".S"
+            android:label="@string/title_activity_s"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".T"
+            android:label="@string/title_activity_t"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".U"
+            android:label="@string/title_activity_u"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Vv"
+            android:label="@string/title_activity_vv"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Ww"
+            android:label="@string/title_activity_ww"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Xx"
+            android:label="@string/title_activity_xx"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Yy"
+            android:label="@string/title_activity_yy"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Zz"
+            android:label="@string/title_activity_zz"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity android:name=".SplashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".bhong"
+            android:label="@string/title_activity_bhong"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".LastD"
+            android:label="@string/title_activity_last_d" >
+        </activity>
+    </application>
+
+</manifest>

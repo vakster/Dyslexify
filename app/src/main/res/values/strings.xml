@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Dyslexify</string>
+
+    <string name="action_settings">Settings</string>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+    <string name="title_activity_b">B</string>
+    <string name="title_activity_c">C</string>
+    <string name="title_activity_d">D</string>
+    <string name="title_activity_e">E</string>
+    <string name="title_activity_f">F</string>
+    <string name="title_activity_g">G</string>
+    <string name="title_activity_h">H</string>
+    <string name="title_activity_i">I</string>
+    <string name="title_activity_j">J</string>
+    <string name="title_activity_k">K</string>
+    <string name="title_activity_l">L</string>
+    <string name="title_activity_m">M</string>
+    <string name="title_activity_n">N</string>
+    <string name="title_activity_o">O</string>
+    <string name="title_activity_p">P</string>
+    <string name="title_activity_q">Q</string>
+    <string name="title_activity_rr">Rr</string>
+    <string name="title_activity_s">S</string>
+    <string name="title_activity_t">T</string>
+    <string name="title_activity_u">U</string>
+    <string name="title_activity_vv">Vv</string>
+    <string name="title_activity_ww">Ww</string>
+    <string name="title_activity_xx">Xx</string>
+    <string name="title_activity_yy">Yy</string>
+    <string name="title_activity_zz">Zz</string>
+    <string name="title_activity_my_application">MyApplication</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_bhong">bhong</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_last_d">LastD</string>
+
+</resources>
